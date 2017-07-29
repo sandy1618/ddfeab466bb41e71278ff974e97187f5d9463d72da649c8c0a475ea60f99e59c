@@ -9,4 +9,17 @@ SpawnTree -->
 ```
  OliveRC Joined.
  RockyRock Joined.
+ 
+ CrytoOlive--->
+ 
+```shell
+1. Incentivization Model
+2. ICO Mapping
+3. ICO Timeplan
+4. ICO Approach
+5. ERC-20 Token Issuance
+6. Social Blockchain Model
+```
+
+
 
