@@ -2,14 +2,21 @@
 
 SpawnTree -->
 
-~~```1. Activity Distribution~~
+~~1. Activity Distribution~~
 ~~2. Activities Explained --> "@Oliverc"~~
 ~~3. Mapping & Planning Responsibility.~~
-```
 
-
-
-
+```javascript
+if(!updatedKnowlwdge)
+{
+ React.Learn;
+ Angular2.Learn;
+ AngularMaterial.Learn;
+ C++;
+}
+else{
+  
+}```
 
  OliveRC Joined.
  RockyRock Joined.
