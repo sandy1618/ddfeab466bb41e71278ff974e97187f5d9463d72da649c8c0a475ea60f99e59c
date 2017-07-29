@@ -2,21 +2,15 @@
 
 SpawnTree -->
 
-~~1. Activity Distribution~~
-~~2. Activities Explained --> "@Oliverc"~~
-~~3. Mapping & Planning Responsibility.~~
-
-```C++
-if(!updatedKnowlwdge)
-{
- React.Learn;
- Angular2.Learn;
- AngularMaterial.Learn;
- C++;
-}
-else{
-  
-}```
+~~Activity Distribution~~
+~~Activities Explained --> "@Oliverc"~~
+~~Mapping & Planning Responsibility.~~
+```javascript
+1. ICO Site Mapping.
+2. Review.io site layout & working
+3. Blockchain code.
+4. ICO Listings.
+```
 
  OliveRC Joined.
  RockyRock Joined.
